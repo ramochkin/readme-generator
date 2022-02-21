@@ -41,7 +41,7 @@ const questions = [
     },
     {
         type: 'input',
-        message: 'test' ,
+        message: 'How would you test this?' ,
         name: 'test' ,
     },
     {
@@ -73,5 +73,4 @@ function init() {
 }
 
 // Function call to initialize app
-init();
-
+init()
